@@ -43,4 +43,8 @@ Features:
 # Time for completion:
   After reading the documentation on 22nd September 2024 it took 3 days to complete the app and deploy for production build.
 
+# Link for the project:
+https://hrithik2211.github.io/Foodle/
+Try to click on home button if page shows blank on first time opening.
+
 
